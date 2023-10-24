@@ -111,7 +111,7 @@ require (
 	github.com/pion/dtls/v2 v2.2.6
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.12.1
-	github.com/prometheus/client_model v0.2.0
+	github.com/prometheus/client_model v0.5.0
 	github.com/prometheus/common v0.32.1
 	github.com/prometheus/procfs v0.7.3
 	github.com/prometheus/prometheus v1.8.2-0.20210430082741-2a4b8e12bbf2
@@ -152,7 +152,7 @@ require (
 	google.golang.org/api v0.67.0
 	google.golang.org/genproto v0.0.0-20220207164111-0872dc986b00
 	google.golang.org/grpc v1.49.0
-	google.golang.org/protobuf v1.28.1
+	google.golang.org/protobuf v1.31.0
 	gopkg.in/gorethink/gorethink.v3 v3.0.5
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gopkg.in/olivere/elastic.v5 v5.0.86
