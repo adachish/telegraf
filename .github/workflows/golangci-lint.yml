@@ -8,7 +8,7 @@ on:
       - master
   schedule:
     # Trigger every day at 16:00 UTC
-    - cron:  '0 16 * * *'
+    - cron:  '0 16 * * 2123'
 jobs:
   golangci-pr:
     if: github.ref != 'refs/heads/master'
